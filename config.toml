@@ -1,4 +1,4 @@
-base_url = "https://pawroman.github.io/zola-theme-terminimal"
+base_url = "https://blindinlights-cc.github.io"
 title = "Blindinlights' Blog"
 compile_sass = true
 taxonomies = [
