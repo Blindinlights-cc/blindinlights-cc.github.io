@@ -1,8 +1,12 @@
 +++
 title = "About Me"
 path = "about"
-+++
 
-Hello, World!
+<h1 align="center">Hi 👋, I'm Blidnilights</h1>
 
-I'm Blindinlights
+Welcome to my blog!
+
+I'm currently studying at XDU.
+
+
+
