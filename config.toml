@@ -1,0 +1,25 @@
+base_url = "https://pawroman.github.io/zola-theme-terminimal"
+title = "Blindinlights' Blog"
+compile_sass = true
+taxonomies = [
+    {name = "tags"}
+]
+[markdown]
+highlight_code = true
+highlight_theme = "boron"
+
+[extra]
+accent_color = "blue"
+background_color = "blue"
+logo_text = "Blidninlights"
+menu_items = [
+    {name = "blog", url = "$BASE_URL"},
+    {name = "tags", url = "$BASE_URL/tags"},
+    {name = "archive", url = "$BASE_URL/archive"},
+    {name = "about me", url = "$BASE_URL/about"},
+    {name = "github", url = "https://github.com/pawroman/zola-theme-terminimal", newtab = true},
+]
+enable_post_view_navigation = true
+post_view_navigation_prompt = "Thanks for reading! Read other posts?"
+use_full_hack_font = false
+page_titles = "main_only"
