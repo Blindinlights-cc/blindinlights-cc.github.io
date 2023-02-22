@@ -1,5 +1,6 @@
 base_url = "https://blindinlights-cc.github.io"
 title = "Blindinlights' Blog"
+theme="zola-theme-terminimal"
 compile_sass = true
 taxonomies = [
     {name = "tags"}
