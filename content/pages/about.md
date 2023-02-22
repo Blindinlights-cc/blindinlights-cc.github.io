@@ -1,6 +1,7 @@
 +++
 title = "About Me"
 path = "about"
++++
 
 <h1 align="center">Hi 👋, I'm Blidnilights</h1>
 
